@@ -25,12 +25,12 @@ Also experienced in **COBOL**, **Visual FoxPro**, and legacy database systems.
 
 ---
 
-## 📫 Contact & Links
+### 📞 Contact & Links
 
-- 🌐 [www.nooneneo.com](https://nooneneo.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/bane-paunovic-5ab79b302)  
-- 💻 [GitHub](https://github.com/branislavpaunovic)  
-- 📧 nooneneo.vision@gmail.com  
+- [🌐 www.nooneneo.com](https://nooneneo.com)
+- [📧 LinkedIn](https://www.linkedin.com/in/bane-paunovic-5ab79b302)
+- [📦 GitHub](https://github.com/branislavpaunovic)
+- [📘 Facebook Page](https://www.facebook.com/Nooneneo.vision)
 
 ---
 
