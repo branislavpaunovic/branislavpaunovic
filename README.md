@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Branislav Paunović – NoOneNeo  
+### Full-Stack Web Developer | UX/UI Enthusiast | Digital Marketing Strategist
 
-<!--
-**branislavpaunovic/branislavpaunovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I build fast, responsive, and SEO-optimized websites with clean UI/UX.  
+Specialized in **WordPress (Elementor, WPBakery, Divi)**, **HTML5/CSS3**, **PHP**, **JavaScript**, **MySQL**, and **Google Analytics/Tag Manager**.  
+Also experienced in **COBOL**, **Visual FoxPro**, and legacy database systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- 🔗 [AngelTouch.rs](https://angeltouch.rs) – Premium massage & wellness studio website  
+- 🔗 [SwiftDriveRentACar.com](https://swiftdriverentacar.com) – Car rental booking platform  
+- 🔗 [NutriPlain.com](https://nutriplain.com) – Personalized nutrition platform
+
+---
+
+## 🧰 Tech Stack
+
+- WordPress (Elementor, WPBakery, Divi)
+- HTML5, CSS3, JavaScript, PHP
+- MySQL, SQL, Google APIs
+- SEO Optimization & Analytics
+- Legacy: COBOL, Visual FoxPro
+
+---
+
+## 📫 Contact & Links
+
+- 🌐 [www.nooneneo.com](https://nooneneo.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/bane-paunovic-5ab79b302)  
+- 💻 [GitHub](https://github.com/branislavpaunovic)  
+- 📧 nooneneo.vision@gmail.com  
+
+---
+
+> “Pixel-perfect is not a goal – it's a mindset.” – NoOneNeo ⚡
